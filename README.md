@@ -1,3 +1,3 @@
-# BetterPerspective
+# ModSettings
 
-A flying better perspective camera with easy controls for parkitect!
+A mod for adding the abbilty to add settings for modders!
